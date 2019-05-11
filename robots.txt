@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ohchoowei.threeglobal.com/sitemap.xml
